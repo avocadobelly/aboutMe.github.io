@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+.tile {
+    background-color: #E0E0E0;
+    border: 1px solid black;
+}
+
+h1 {
+    size: 2rem;
+    border-bottom: 1px solid black;
+}
